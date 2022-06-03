@@ -26,7 +26,7 @@ module.exports.updateSpeakSentence = async (event) => {
   console.log(event);
   const body = JSON.parse(event.body);
   const sentence = body.sentence;
-  //console.log('sentence to update:', sentence);
+  console.log('sentence to update:', sentence);
 
   if (sentence) {
     await databaseManager.updateSpeakSentence(sentence);
