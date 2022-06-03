@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # pocLambdasAws
 Simple application using lambda and Serverless framework to expose an endpoint and execute lambda functions
 
