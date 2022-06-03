@@ -1,7 +1,5 @@
 <<<<<<< HEAD
 # pocLambdasAws
-=======
-# awsLambda
 Simple application using lambda and Serverless framework to expose an endpoint and execute lambda functions
 
 Requirements;
@@ -16,4 +14,3 @@ How to run the app:
 3. Copy the URL of the deployed app in AWS
 4. Test on postman
 
->>>>>>> 9bcecbef676a6c4036732f8a6c87636fb879b597
